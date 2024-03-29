@@ -90,7 +90,7 @@ section{
 }
 .home-img img{
     margin-left: 10%;
-    width: 23vw;
+    width: 25vw;
     animation: floatImage  4s ease-in-out infinite;
 }
 @keyframes floatImage{
@@ -105,6 +105,7 @@ section{
     }
 }
 .about-img{
+
         width: 35vw;
         /* animation: floatImage 4s ease-in-out infinite; */
 }
